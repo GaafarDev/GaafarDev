@@ -1,6 +1,6 @@
 ### Hi there 👋, Abdalla Gaafar
-#### Design and Development 
-
+#### Probelm solving and Development 
+As a dedicated student, I am actively honing my skills as a programmer and developer. I have actively contributed to various projects in hackathons and taken part in diverse programming competitions.
 Skills: Flutter / Rubby on Rails / JS / HTML / CSS / PHP / Python / C++ /Java 
 
 - 🔭 I’m currently working on An administration system for a school 
